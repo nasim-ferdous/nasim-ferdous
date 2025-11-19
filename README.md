@@ -12,15 +12,23 @@
 
 ---
 
-### 🔧 Technologies & Tools
-#### **Frontend**
-- React • JavaScript • Tailwind CSS • DaisyUI • HTML • CSS
+### 🔧 Technologies & Tools  
 
-#### **Backend**
-- Node.js • Express • MongoDB • JWT • REST API
+#### 🚀 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+</p>
 
-#### **Tools**
-- Git • GitHub • VS Code • Firebase • Vercel • Netlify  
+#### 🛠 Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+#### ⚙️ Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel,netlify" />
+</p>
+ 
 
 ---
 
