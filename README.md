@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/YOUR_BANNER_FILENAME.png" alt="Nasim Ferdous Banner" />
+</p>
 <h1 align="center">Hi, I'm Nasim Ferdous 👋</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Bangladesh</h3>
 
