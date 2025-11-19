@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nasim Ferdous 👋  
+### MERN Stack Developer | Learner | Problem Solver  
 
-<!--
-**nasim-ferdous/nasim-ferdous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on: Delivery App  
+- 🌱 Learning: MERN developing  
+- 💬 Ask me about: React, MongoDB, Node.js  
+- 📫 Reach me at: nasimferdouspust@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+.
+
+
+
