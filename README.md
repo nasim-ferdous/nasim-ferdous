@@ -35,8 +35,8 @@
 ### 🌐 Connect with Me
 - 💼 Portfolio: _Coming Soon_  
 - 📧 Email: nasimferdouspust@gmail.com 
-- 🟦 Facebook: [your-link  ](https://www.facebook.com/nasimferdous.sohan)
-- 🟨 LinkedIn: [your-link ](https://www.linkedin.com/in/nasim-undefined-331702378/) 
+- 🟦 Facebook: [https://www.facebook.com/nasimferdous.sohan]
+- 🟨 LinkedIn: [https://www.linkedin.com/in/nasim-undefined-331702378/] 
 
 ---
 
