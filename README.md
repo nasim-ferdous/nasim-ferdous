@@ -44,7 +44,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 Portfolio: _Coming Soon_  
+- 💼 Portfolio:[https://nfs-portfolio.netlify.app/]  
 - 📧 Email: nasimferdouspust@gmail.com 
 - 🟦 Facebook: [https://www.facebook.com/nasimferdous.sohan]
 - 🟨 LinkedIn: [https://www.linkedin.com/in/nasim-undefined-331702378/] 
