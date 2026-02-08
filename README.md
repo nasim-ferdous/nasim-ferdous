@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/nasim-ferdous/nasim-ferdous/blob/main/banner.png?raw=true](https://i.ibb.co.com/C3r2jxzX/Teal-And-White-Simpel-Dots-Marketing-Assistant-Linkedln-Banner.png)" />
+  <img src="[https://github.com/nasim-ferdous/nasim-ferdous/blob/main/new_banner.png?raw=true]" />
 </p>
 <h1 align="center">Hi, I'm Nasim Ferdous 👋</h1>
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
