@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me  
-- 💻 I love building **mern-stack web applications**  
+- 💻 I love building **web applications**  
 - 🌱 Currently learning **Authentication**  
 - 🔭 Working on a **Delivery Application**  
-- 💬 Ask me about **React, MongoDB, Express, Node.js**  
+- 💬 Ask me about **React, MongoDB, Express, Node.js, Next.js**  
 - ⚡ Fun fact: I enjoy solving bugs more than writing code 😎  
 
 ---
