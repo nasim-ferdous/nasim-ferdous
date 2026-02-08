@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="new_banner.png" width="100%" />
+  <img src="banner_2.png" width="100%" />
 </p>
 <h1 align="center">Hi, I'm Nasim Ferdous 👋</h1>
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
