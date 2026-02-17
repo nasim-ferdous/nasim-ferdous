@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - 💻 I love building **web applications**  
-- 🌱 Currently learning **Authentication**  
+- 🌱 Currently learning **Next.js**  
 - 🔭 Working on a **Delivery Application**  
 - 💬 Ask me about **React, MongoDB, Express, Node.js, Next.js**  
 - ⚡ Fun fact: I enjoy solving bugs more than writing code 😎  
@@ -47,7 +47,7 @@
 - 💼 Portfolio:[https://nfs-portfolio.netlify.app/]  
 - 📧 Email: nasimferdouspust@gmail.com 
 - 🟦 Facebook: [https://www.facebook.com/nasimferdous.sohan]
-- 🟨 LinkedIn: [https://www.linkedin.com/in/nasim-undefined-331702378/] 
+- 🟨 LinkedIn: [https://www.linkedin.com/in/nasim-ferdous/] 
 
 ---
 
