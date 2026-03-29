@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 - 💻 I love building **web applications**  
-- 🌱 Currently learning **Next.js**  
+- 🌱 Currently learning **TypeScript**  
 - 🔭 Working on a **Delivery Application**  
 - 💬 Ask me about **React, MongoDB, Express, Node.js, Next.js**  
 - ⚡ Fun fact: I enjoy solving bugs more than writing code 😎  
